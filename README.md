@@ -1,3 +1,4 @@
+Line 1 commit to master template
 # Test update to template 
 Another commit to the main template
 # VSCode ROS2 Workspace Template
