@@ -1,4 +1,5 @@
 #KCJ test
+# (update after adding sync action to the template)
 # 25/01/2024 12:35 commit to master template
 
 # Online edit on humble branch
